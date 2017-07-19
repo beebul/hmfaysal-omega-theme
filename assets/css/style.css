@@ -6,6 +6,9 @@
 
 @import url(https://fonts.googleapis.com/css?family=Sacramento);
 
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+
 
 /* ------------------------ */
 /* GENERAL TYPOGRAPHY RULES */
@@ -2085,7 +2088,7 @@ a#slide.slide:after:hover {
 
 #sidebar #navigation li a {
   padding: 0 0 18px;
-  font: 700 16px/1em "Cambria";
+  font: 700 16px/1em "Lato";
   text-transform: uppercase;
   ;
     color: #b3b3b1;
