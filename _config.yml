@@ -14,8 +14,9 @@ animated_fins:    true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:          https://beebul.github.io/omega
-# baseurl:           
+#url:         https://beebul.github.io/omega
+url:         http://127.0.0.1:4000
+baseurl:     omega      
 
 # Gems used
 gems:
@@ -25,6 +26,8 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-seo-tag
+  # - tzinfo-data
+  # - tzinfo
 
 # Archives configuration
 # https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md
@@ -48,12 +51,12 @@ author:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Some Details about yourself
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  facebook:
-  github:
-  linkedin:
-  instagram:
-  tumblr:
+  # twitter:
+  # facebook:
+  # github:
+  # linkedin:
+  # instagram:
+  # tumblr:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    "http://plus.google.com/123123123123132123"
 
@@ -85,7 +88,7 @@ sitemap:
         - "/index.html"
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Australia/Adelaide
 future:      true
 markdown:    kramdown
 highlighter: rouge

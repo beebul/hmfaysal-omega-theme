@@ -7,7 +7,6 @@ category: Theme-Setup
 tags: [Jekyll, HMFAYSAL OMEGA, Features]
 imagefeature: picture-37.jpg 
 comments: true
-mathjax: 
 ---
 HMFAYSAL OMEGA is a minimalist, beautiful, responsive theme for Jekyll designed for engineers as well as writers who want their content to take front and center. This theme elegantly wraps each page and post with featured images complementing the content. HMFAYSAL OMEGA (named after the Greek Alphabet) complements Jekyll’s minimalist, content-first approach with gorgeous typography and subtle design elements.
 
