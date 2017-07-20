@@ -2217,6 +2217,13 @@ a#slide.slide:after:hover {
   }
 }
 
+@media all and (min-width: 768px;) {
+  /* Styles for Landscape screen */
+  a#slide.slide {
+    left: 230px;
+  }
+}
+
 a#slide.slide {
   /*left: 230px;*/
   pointer-events: none;
@@ -2274,6 +2281,10 @@ a.slide:hover {
   #fade.slide {
     left: 220px;
   }
+  
+  /*a#slide.slide {
+    left: 230px;
+  }*/
 
     /*a#slide.slide{*/
     /*    left:10px*/
