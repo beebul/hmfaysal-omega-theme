@@ -2,9 +2,6 @@
 layout: post
 title:  "Worse Things Happen At Sea"
 imagefeature: headers/worse-things-happen-at-sea-resized.jpg
-tags:
-    - 8 bit
-    - sinclair
 category: Spectrum
 ---
 
