@@ -2210,7 +2210,7 @@ a#slide.slide:after:hover {
 }
 
 a#slide.slide {
-  left: 230px;
+  /*left: 230px;*/
   pointer-events: none;
 }
 
