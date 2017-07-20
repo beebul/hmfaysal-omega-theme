@@ -2058,10 +2058,10 @@ a#slide.slide:after:hover {
   position: fixed;
   overflow-y: scroll;
   height: 100%;
-  width: 298px;
+  width: 220px;
   padding: 40px 30px 0;
   top: 0;
-  left: -298px;
+  left: -220px;
   background: #191918;
   z-index: 20;
 }
@@ -2084,13 +2084,18 @@ a#slide.slide:after:hover {
   margin: 31px 0 38px;
 }
 
+#sidebar #navigation ul {
+  padding-left: 0;
+}
+
+
 #sidebar #navigation li {
   margin: 0;
   list-style-type: none;
 }
 
 #sidebar #navigation li a {
-  padding: 0 0 18px;
+  padding: 0 0 0px;
   font: 700 16px/1em "Lato";
   text-transform: uppercase;
   ;
@@ -2205,12 +2210,12 @@ a#slide.slide:after:hover {
 }
 
 a#slide.slide {
-  left: 308px;
+  left: 230px;
   pointer-events: none;
 }
 
 body.slide {
-  left: 298px;
+  left: 220px;
   overflow: hidden;
 }
 
@@ -2227,8 +2232,14 @@ body.slide {
 
 #fade.slide {
   pointer-events: auto;
-  left: 298px;
+  left: 220px;
   background: rgba(0,0,0,.2);
+}
+
+a.slide:hover {
+  background: #39c492;
+  cursor: pointer;
+  cursor: hand;
 }
 
 
@@ -2253,7 +2264,7 @@ body.slide {
 @media screen and (max-width:700px) {
 
   #fade.slide {
-    left: 298px;
+    left: 220px;
   }
 
     /*a#slide.slide{*/
