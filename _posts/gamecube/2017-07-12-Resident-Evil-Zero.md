@@ -6,9 +6,8 @@ teaser: "Nice graphics upgrade, some truely scary moments but doesn't have that 
 categories:
     - Gamecube
     - Resident Evil
-header:
-    image_fullwidth: "resident-evil-zero.png"
-    caption: "zerø"
+imagefeature: headers/resident-evil-zero.png
+
 ---
 
 
