@@ -2209,6 +2209,14 @@ a#slide.slide:after:hover {
   left: 0;
 }
 
+
+@media all and (orientation:landscape) {
+  /* Styles for Landscape screen */
+  a#slide.slide {
+    left: 230px;
+  }
+}
+
 a#slide.slide {
   /*left: 230px;*/
   pointer-events: none;
