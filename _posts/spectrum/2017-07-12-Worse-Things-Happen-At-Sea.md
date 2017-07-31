@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Worse Things Happen At Sea"
+title: Worse Things Happen At Sea
 imagefeature: headers/worse-things-happen-at-sea-resized.jpg
 category: Spectrum
+published: true
 ---
 
 
@@ -12,4 +13,4 @@ Of the hundreds of Spectrum games I owned, this one stands out a little and I th
 
 <img src="{{ site.url }}/images/gameshots/wthas.gif" class="image_fullwidth">
 
-Released by Silversoft Ltd in 1984 this was a dfds fdsg dg
+Released by Silversoft Ltd in 1984 this was a dfds fdsg dg arguement.
